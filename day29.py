@@ -125,6 +125,7 @@ st.sidebar.markdown(
     """
 
 App created by modifying this [example](https://github.com/CharlyWargnier/zero-shot-classifier/tree/main) using 🎈[Streamlit](https://streamlit.io/) and [HuggingFace](https://huggingface.co/inference-api)'s [Distilbart-mnli-12-3](https://huggingface.co/valhalla/distilbart-mnli-12-3) model.
+Original app created by [Datachaz](https://twitter.com/DataChaz).
 
 """
 )
